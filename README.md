@@ -10,7 +10,7 @@ All content is the property of the IBM Corporation.
   <tr>
     <td>Placeholder</td>
     <td>
-      <p>[Building a custom client using the API](api-client.md)</p>
+      <p><a href="api-client.md">Building a custom client using the API</a></p>
       <p>Programming tutorial for developers building client applications that use the Watson Assistant REST API.</p>
       <p>For this tutorial, I designed and wrote an example client application that was intentionally very simple, in order to keep the code examples focused on illustrating the Watson Assistant API. The tutorial takes an iterative approach, showing multiple versions of the code examples with additional features added, along with sample output.</p>
       <p>
