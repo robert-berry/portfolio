@@ -1,9 +1,25 @@
-# Robert Berry's writing samples
+## Overview
 
-- **[Developing a custom client by using the API](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-api-client)**: A developer-focused tutorial I wrote to illustrate the basic message flow between a custom client application and the IBM Watson Assistant REST API. I wrote and tested code examples in Python and JavaScript (Node.JS).
-- **[Building a custom extension](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-build-custom-extension)**: A procedural topic that explains how to use the Watson Assistant UI to create a custom extension. This procedure is intended for advanced users who understand REST APIs.
-- **Web chat security**: A set of overviews and procedures that explain how to enable and use the security features of the Watson Assistant web chat integration. This documentation is intended for a developer audience:
-  - [Overview](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-web-chat-security)
-  - [Enabling web chat security](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-web-chat-security-enable)
-  - [Authenticating users](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-web-chat-security-authenticate)
-  - [Encrypting sensitive data](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-web-chat-security-encrypt)
+The following samples are excerpted from the documentation for IBM Watson Assistant as it existed on 4 May 2023.
+
+Nonfunctioning links have been removed.
+
+All content is the property of the IBM Corporation.
+
+<table>
+  <tr>
+    <td>Placeholder</td>
+    <td>
+      <p>[Building a custom client using the API](api-client.md)</p>
+      <p>Programming tutorial for developers building client applications that use the Watson Assistant REST API.</p>
+      <p>For this tutorial, I designed and wrote an example client application that was intentionally very simple, in order to keep the code examples focused on illustrating the Watson Assistant API. The tutorial takes an iterative approach, showing multiple versions of the code examples with additional features added, along with sample output.</p>
+      <p>
+      In the live documentation hosted on ibm.com, the reader can choose to view code examples in either JavaScript (Node.js) or Python. This static version shows only the JavaScript examples.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>Placeholder</td>
+    <td>Placeholder
+  </tr>
+</table>
