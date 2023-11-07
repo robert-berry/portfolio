@@ -9,7 +9,7 @@ The following samples are excerpted from the documentation for IBM Watson Assist
       <p><a href="api-client.html"><b>Programming tutorial</b></a></p>
       <p>A programming tutorial with extensive use of code examples, intended for developers building client applications that use the Watson Assistant REST API. For this tutorial, I designed and wrote a simple example client application (in both Python and JavaScript). The tutorial takes an iterative approach, showing multiple executable versions of the code examples as more function is added.</p>
       <p>
-      In the live documentation hosted on ibm.com, readers can choose to view code examples in either JavaScript (Node.js) or Python. This static version shows only the JavaScript examples.
+      <b>Note:</b> In the live documentation hosted on ibm.com, readers can choose to view code examples in either JavaScript (Node.js) or Python. This static version shows only the JavaScript examples.
       </p>
     </td>
   </tr>
@@ -26,7 +26,7 @@ The following samples are excerpted from the documentation for IBM Watson Assist
       <p><a href="web-chat-architecture.html"><b>Conceptual overview</b></a></p>
       <p>This conceptual overview provides an overall architectural description of the Watson Assistant web chat feature, which is a customizable widget that can be integrated with a customer website to provide a chatbot UI.</p>
       <p>This overview starts with a description of the web chat widget's behavior from an end user's perspective, using screen captures to illustrate. It then provides details about the types of chatbot responses for which the widget has out-of-the-box support.</p>
-      <p>The **Technical details** section, intended for more advanced users, provides an overview of detailed information that developers or administrators might need to know. In the original live version of the documentat, this overview provided numerous links to detailed documentation elsewhere.</p>
+      <p>The <b>Technical details</b> section, intended for more advanced users, provides an overview of detailed information that developers or administrators might need to know. In the original live version of the documentat, this overview provided numerous links to detailed documentation elsewhere.</p>
     </td>
   </tr>
   <tr>
