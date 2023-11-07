@@ -4,7 +4,7 @@ The following samples are excerpted from the documentation for IBM Watson Assist
 
 Nonfunctioning links from the original context are rendered as bold text.
 
-<table>
+<table style="background-color:LightGray;">
   <tr>
     <td style="width:20%"><a href="api-client.html"><img src="images/api-client.jpg"/></a></td>
     <td>
