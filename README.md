@@ -6,7 +6,7 @@ Nonfunctioning links from the original context are rendered as bold text.
 
 <table>
   <tr>
-    <td><a href="api-client.html"><img src="images/api-client.jpg"/></a></td>
+    <td style="width:20%"><a href="api-client.html"><img src="images/api-client.jpg"/></a></td>
     <td>
       <p><b>Programming tutorial:</b> <a href="api-client.html">Building a custom client using the API</a></p>
       <p>A programming tutorial with extensive use of code examples, intended for developers building client applications that use the Watson Assistant REST API. For this tutorial, I designed and wrote a simple example client application (in both Python and JavaScript). The tutorial takes an iterative approach, showing multiple executable versions of the code examples as more function is added.</p>
