@@ -45,6 +45,14 @@ The following samples are excerpted from the documentation for IBM Watson Assist
       <p>This tutorial was one of a set of similar developer tutorials that were part of a long-running project to enhance the web chat developer documentation.</p>
   </td>
 </tr>
+<tr>
+  <td>Placeholder</td>
+  <td>
+    <p><a href="assistant-v1.html"><b>API reference</b></a></p>
+    <p>Reference documentation for the Watson Assistant v1 REST API. This documentation is intended for programmers who want to use the Watson Assistant v1 REST API to build a custom client application, or to use the API to programmatically modify training artifacts or configuration options for a workspace. This documentation is generated from the <a href="assistant-v1.json">OpenAPI specification</a>, which I maintained.</p>
+    <p><b>Note:</b> In the live documentation hosted on ibm.com, the reference information is supplemented with request examples and SDK information, which are merged with the OpenAPI specification by an internal build process. The static rendering shown here does not include those supplemental elements.</p>
+  </td>
+</tr>
 </table>
 
 <i>All content in these writing samples is the property of the IBM Corporation.</i>
