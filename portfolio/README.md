@@ -55,4 +55,4 @@ The following samples are excerpted from the documentation for IBM Watson Assist
 </tr>
 </table>
 
-<i>All content in these writing samples is the property of the IBM Corporation.</i>
+<i>All content in these writing samples is the property of the IBM Corporation. The source files were obtained from publicly accessible sites.</i>
