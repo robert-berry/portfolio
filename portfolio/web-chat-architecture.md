@@ -151,7 +151,7 @@ By default, the web chat displays hardcoded labels and messages in English, but 
 
 In whichever language you are using, you can also customize the text of any hardcoded strings.
 
-For more information, see [Supporting global audiences](/docs/watson-assistant?topic=watson-assistant-web-chat-develop-global).
+For more information, see **Supporting global audiences**.
 
 ### Security
 

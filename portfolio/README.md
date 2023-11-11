@@ -24,8 +24,8 @@ The following samples are excerpted from the documentation for IBM Watson Assist
     <td><a href="web-chat-architecture.html"><img src="images/web-chat-architecture.jpg"/></a></td>
     <td>
       <p><a href="web-chat-architecture.html"><b>Conceptual overview</b></a></p>
-      <p>This conceptual overview provides an overall architectural description of the Watson Assistant web chat feature, which is a customizable widget that can be integrated with a customer website to provide a chatbot UI.</p>
-      <p>This overview starts with a description of the web chat widget's behavior from an end user's perspective, using screen captures to illustrate. It then provides details about the types of chatbot responses for which the widget has out-of-the-box support.</p>
+      <p>This conceptual overview provides an architectural description of the Watson Assistant web chat feature, which is a customizable widget that can be integrated with a customer website to provide a chatbot UI.</p>
+      <p>This overview starts with a description of the web chat widget's behavior from an end user's perspective. It then provides details about the types of chatbot responses for which the widget has out-of-the-box support.</p>
       <p>The <b>Technical details</b> section, intended for more advanced users, provides an overview of detailed information that developers or administrators might need to know. In the original live version of the documentat, this overview provided numerous links to detailed documentation elsewhere.</p>
     </td>
   </tr>
@@ -33,7 +33,7 @@ The following samples are excerpted from the documentation for IBM Watson Assist
     <td><a href="web-chat-security-enable.html"><img src="images/web-chat-security-enable.jpg"/></a></td>
     <td>
       <p><a href="web-chat-security-enable.html"><b>Progamming task</b></a></p>
-      <p>This documentation is intended for web developers who understand how to use JSON Web Token (JWT). It provides a technical explanation and JavaScript code examples to explain how to enable the web chat security feature.</p>
+      <p>This documentation provides a technical explanation and JavaScript code examples to explain how to enable the web chat security feature. It is intended for web developers who understand how to use JSON Web Token (JWT).</p>
     </td>
   </tr>
 <tr>
@@ -50,7 +50,7 @@ The following samples are excerpted from the documentation for IBM Watson Assist
   <td>
     <p><a href="assistant-v1.html"><b>API reference</b></a></p>
     <p>Reference documentation for the Watson Assistant v1 REST API. This documentation is intended for programmers who want to use the API to build a custom client application, or to use the API to programmatically modify training artifacts or configuration options for a workspace. This documentation is generated from the <a href="assistant-v1.json">OpenAPI specification</a>, which I owned and maintained (working in collaboration with the development team).</p>
-    <p><b>Note:</b> In the live documentation hosted on ibm.com, the reference information is supplemented with request examples and SDK information for multiple languages. Those elements are merged with the OpenAPI specification by an internal build process, so they are not included in the static rendering shown here.</p>
+    <p><b>Note:</b> In the live documentation hosted on ibm.com, the reference information is supplemented with introductory front matter, SDK information, and request examples in multiple languages. Those elements were merged with the OpenAPI specification from other sources, so they are not included in the static rendering shown here.</p>
   </td>
 </tr>
 </table>
