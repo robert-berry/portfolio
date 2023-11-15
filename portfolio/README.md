@@ -50,7 +50,7 @@ The following samples are excerpted from the documentation for IBM Watson Assist
   <td>
     <p><a href="assistant-v1.html"><b>API reference</b></a></p>
     <p>Reference documentation for the Watson Assistant v1 REST API. This documentation is intended for programmers who want to use the API to build a custom client application, or to use the API to programmatically modify training artifacts or configuration options for a workspace. This documentation is generated from the <a href="assistant-v1.json">OpenAPI specification</a>, which I owned and maintained (working in collaboration with the development team).</p>
-    <p><b>Note:</b> This static rendering was generated using the open-source <a href="https://github.com/Redocly/redoc" target="_blank">tool</a>. In the live documentation <a href="https://cloud.ibm.com/apidocs/assistant-v1" target="_blank">hosted on ibm.com</a>, the API reference information is supplemented with introductory front matter, SDK information, and request examples in multiple languages. Those elements come from sources oustide the OpenAPI specification and are not shown here.</p>
+    <p><b>Note:</b> This static rendering was generated using the open-source <a href="https://github.com/Redocly/redoc" target="_blank">Redoc tool</a>. In the live documentation <a href="https://cloud.ibm.com/apidocs/assistant-v1" target="_blank">hosted on ibm.com</a>, the API reference information is supplemented with introductory front matter, SDK information, and request examples in multiple languages. Those elements come from sources oustide the OpenAPI specification and are not shown here.</p>
   </td>
 </tr>
 </table>
