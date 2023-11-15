@@ -9,7 +9,7 @@ The following samples are excerpted from the documentation for IBM Watson Assist
       <p><a href="api-client.html"><b>Programming tutorial</b></a></p>
       <p>A programming tutorial with extensive use of code examples, intended for developers building client applications that use the Watson Assistant REST API. For this tutorial, I designed and wrote a simple example client application (in both Python and JavaScript). The tutorial takes an iterative approach, showing multiple executable versions of the code examples as more function is added.</p>
       <p>
-      <b>Note:</b> In the live documentation hosted on ibm.com, readers can choose to view code examples in either JavaScript (Node.js) or Python. This static version shows only the JavaScript examples.
+      <b>Note:</b> In the live documentation <a href="https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-api-client" target="_blank">hosted on ibm.com</a>, readers can choose to view code examples in either JavaScript (Node.js) or Python. This static version shows only the JavaScript examples.
       </p>
     </td>
   </tr>
@@ -50,9 +50,9 @@ The following samples are excerpted from the documentation for IBM Watson Assist
   <td>
     <p><a href="assistant-v1.html"><b>API reference</b></a></p>
     <p>Reference documentation for the Watson Assistant v1 REST API. This documentation is intended for programmers who want to use the API to build a custom client application, or to use the API to programmatically modify training artifacts or configuration options for a workspace. This documentation is generated from the <a href="assistant-v1.json">OpenAPI specification</a>, which I owned and maintained (working in collaboration with the development team).</p>
-    <p><b>Note:</b> In the live documentation hosted on ibm.com, the reference information is supplemented with introductory front matter, SDK information, and request examples in multiple languages. Those elements were merged with the OpenAPI specification from other sources, so they are not included in the static rendering shown here.</p>
+    <p><b>Note:</b> This static rendering was generated using the open-source <a href="https://github.com/Redocly/redoc" target="_blank">tool</a>. In the live documentation <a href="https://cloud.ibm.com/apidocs/assistant-v1" target="_blank">hosted on ibm.com</a>, the API reference information is supplemented with introductory front matter, SDK information, and request examples in multiple languages. Those elements come from sources oustide the OpenAPI specification and are not shown here.</p>
   </td>
 </tr>
 </table>
 
-<i>All content in these writing samples is the property of the IBM Corporation. The source files were obtained from publicly accessible sites.</i>
+<i>All content in these writing samples is the property of the IBM Corporation. All source files were obtained from publicly accessible locations.</i>
