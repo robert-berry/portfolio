@@ -1,4 +1,4 @@
-The following samples are excerpted from the documentation for IBM Watson Assistant as it existed in May 2023. (Watson Assistant has since been rebranded as [watsonx Assistant](https://www.ibm.com/products/watsonx-assistant).)
+The following samples are taken from the documentation for IBM Watson Assistant as it existed in May 2023. (Watson Assistant has since been rebranded as [watsonx Assistant](https://www.ibm.com/products/watsonx-assistant).)
 
 **Note:** Nonfunctioning links from the original context are rendered as bold text.
 
